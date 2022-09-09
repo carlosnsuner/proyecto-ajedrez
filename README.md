@@ -1,3 +1,3 @@
 Proyecto Ajedrez HTML y CSS
 
-![Ajedrez](./img/felinos.jpggit )
+![Ajedrez](./img/ajedrez.jpg)
