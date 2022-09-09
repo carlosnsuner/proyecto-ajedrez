@@ -4,7 +4,6 @@ body {
 
 .container {
     display:flex;
-
 }
 .casilla-impar {
     width: 50px;
